@@ -1,0 +1,29 @@
+.login{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-color: red;
+    border-radius: 10px;
+    background-color: #ecebeb;
+}
+.parol{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-color: red;
+    border-radius: 10px;
+    background-color: #ecebeb;
+}
+.btn{
+    width: 200px;
+    height: 55px;
+    text-align: center;
+    border-color: red;
+    border-radius: 10px;
+    background-color: red;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
